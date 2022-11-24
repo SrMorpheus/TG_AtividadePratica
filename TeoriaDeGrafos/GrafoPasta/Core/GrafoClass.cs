@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeoriaDeGrafos.Grafo.Core
+namespace TeoriaDeGrafos.GrafoPasta.Core
 {
-    public class Grafo
+    public class GrafoClass
     {
 
         private List<Vertice> _vertices = new List<Vertice>();
@@ -23,7 +23,7 @@ namespace TeoriaDeGrafos.Grafo.Core
 
         
 
-        public Grafo()
+        public GrafoClass()
         {
 
             _qtdMaximaVertices = 10;
@@ -31,7 +31,7 @@ namespace TeoriaDeGrafos.Grafo.Core
         }
 
 
-        public Grafo (int qtdVertices )
+        public GrafoClass (int qtdVertices )
         {
 
             if(qtdVertices <= 0)

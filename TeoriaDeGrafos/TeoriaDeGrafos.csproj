@@ -9,8 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Aplicacao\" />
-    <Folder Include="Grafo\Util\" />
-    <Folder Include="Grafo\Search\" />
+    <Folder Include="GrafoPasta\Util\" />
   </ItemGroup>
 
 </Project>

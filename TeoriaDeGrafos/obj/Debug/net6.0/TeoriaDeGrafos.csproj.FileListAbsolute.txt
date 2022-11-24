@@ -13,3 +13,18 @@ C:\Users\apoio\Desktop\Bruno\Teoria de Grafo\Implementação\Patrica01\TeoriaDeG
 C:\Users\apoio\Desktop\Bruno\Teoria de Grafo\Implementação\Patrica01\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.pdb
 C:\Users\apoio\Desktop\Bruno\Teoria de Grafo\Implementação\Patrica01\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.genruntimeconfig.cache
 C:\Users\apoio\Desktop\Bruno\Teoria de Grafo\Implementação\Patrica01\TeoriaDeGrafos\obj\Debug\net6.0\ref\TeoriaDeGrafos.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.csproj.AssemblyReference.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.AssemblyInfoInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.AssemblyInfo.cs
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.csproj.CoreCompileInputs.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\refint\TeoriaDeGrafos.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\bin\Debug\net6.0\TeoriaDeGrafos.exe
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\bin\Debug\net6.0\TeoriaDeGrafos.deps.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\bin\Debug\net6.0\TeoriaDeGrafos.runtimeconfig.json
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\bin\Debug\net6.0\TeoriaDeGrafos.dll
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\bin\Debug\net6.0\TeoriaDeGrafos.pdb
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\TeoriaDeGrafos.genruntimeconfig.cache
+C:\Users\BrunoGonçalvesBarros\Desktop\Bruno\Ciência da Computação\Teoria de Grafos\Atividade Atrasadas\TG_AtividadePratica\TeoriaDeGrafos\obj\Debug\net6.0\ref\TeoriaDeGrafos.dll
